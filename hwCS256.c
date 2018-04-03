@@ -4,6 +4,6 @@
 #include <stdlib.h>
 
 int main(void) {
-	printf("Hello World my name is Dakota");
+	printf("Goodbye, I finished my CS256 HW1");
 	return 0;
 }
